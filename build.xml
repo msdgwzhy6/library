@@ -1,0 +1,21 @@
+[code]<project name="workspace" default="all">
+    <target name="all" depends="pre_build, build, post_build"/>
+
+    <target name="pre_build">
+        <exec executable="cmd.exe">
+            <arg line="/c pre_build.bat" />
+        </exec>
+    </target>
+
+    <target name="build">
+        <exec executable="cmd.exe">
+            <arg line="/c build.bat" />
+        </exec>
+    </target>
+
+    <target name="post_build">
+        <exec executable="cmd.exe">
+            <arg line="/c post_build.bat" />
+        </exec>
+    </target>
+</project>[/code]
