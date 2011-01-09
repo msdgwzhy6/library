@@ -1,0 +1,9 @@
+所有测试代码都在文件夹test case里面：
+    1.文件夹code coverage代码覆盖率的截图和visual studio生成的代码覆盖率文件；
+    2.unit test source code文件夹里面是单元测试的代码以及测试记录（测试记录.txt）
+    3.文件夹plugin里面是用于单元测试和查看代码覆盖率的插件（nunit和testdriven.net）
+    4.文件夹system and integrated test里面是ui测试（UI测试.rar）和可用性测试（Usability Testing.doc）
+    5.文件夹LibrarySeatsManager里面是工程
+    6.文件夹test document里面是测试文档
+
+    如果想要查看代码覆盖率和测试结果请安装vs2010及所需插件（nunit和testdriven.net），添加nunit到工程的引用。

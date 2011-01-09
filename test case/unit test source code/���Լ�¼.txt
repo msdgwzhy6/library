@@ -1,0 +1,156 @@
+------ Test started: Assembly: LibrarySeatsManager.dll ------
+
+Instrumenting: C:\Users\laizf\Desktop\新建文件夹\LibrarySeatsManager\LibrarySeatsManager\LibrarySeatsManager\bin\LibrarySeatsManager.dll
+Error: 
+Error: ===============================================================================
+Error: The use of this software is restricted by certain conditions.
+Error: See the "LICENSE" file distributed with the program for details.
+Error: 
+Error: The University of British Columbia has applied for a patent on the SIFT
+Error: algorithm in the United States.  Commercial applications of this software may
+Error: require a license from the University of British Columbia.
+Error: ===============================================================================
+Error: 
+Building octave, (1278, 958)
+Building octave, (639, 479)
+Building octave, (319, 239)
+Building octave, (159, 119)
+Building octave, (79, 59)
+  FindPeaks: scale 0.50, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 0 has 1544 raw peaks
+  filtered: 874 remaining from 1544, thats % 56.61
+generating keypoints from peaks
+  FindPeaks: scale 1.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 1 has 434 raw peaks
+  filtered: 226 remaining from 434, thats % 52.07
+generating keypoints from peaks
+  FindPeaks: scale 2.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 2 has 139 raw peaks
+  filtered: 78 remaining from 139, thats % 56.12
+generating keypoints from peaks
+  FindPeaks: scale 4.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 3 has 42 raw peaks
+  filtered: 27 remaining from 42, thats % 64.29
+generating keypoints from peaks
+  FindPeaks: scale 8.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 4 has 14 raw peaks
+  filtered: 12 remaining from 14, thats % 85.71
+generating keypoints from peaks
+Error: 
+Error: ===============================================================================
+Error: The use of this software is restricted by certain conditions.
+Error: See the "LICENSE" file distributed with the program for details.
+Error: 
+Error: The University of British Columbia has applied for a patent on the SIFT
+Error: algorithm in the United States.  Commercial applications of this software may
+Error: require a license from the University of British Columbia.
+Error: ===============================================================================
+Error: 
+Building octave, (1278, 958)
+Building octave, (639, 479)
+Building octave, (319, 239)
+Building octave, (159, 119)
+Building octave, (79, 59)
+  FindPeaks: scale 0.50, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 0 has 1544 raw peaks
+  filtered: 874 remaining from 1544, thats % 56.61
+generating keypoints from peaks
+  FindPeaks: scale 1.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 1 has 434 raw peaks
+  filtered: 226 remaining from 434, thats % 52.07
+generating keypoints from peaks
+  FindPeaks: scale 2.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 2 has 139 raw peaks
+  filtered: 78 remaining from 139, thats % 56.12
+generating keypoints from peaks
+  FindPeaks: scale 4.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 3 has 42 raw peaks
+  filtered: 27 remaining from 42, thats % 64.29
+generating keypoints from peaks
+  FindPeaks: scale 8.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 4 has 14 raw peaks
+  filtered: 12 remaining from 14, thats % 85.71
+generating keypoints from peaks
+
+Error: 
+Error: ===============================================================================
+Error: The use of this software is restricted by certain conditions.
+Error: See the "LICENSE" file distributed with the program for details.
+Error: 
+Error: The University of British Columbia has applied for a patent on the SIFT
+Error: algorithm in the United States.  Commercial applications of this software may
+Error: require a license from the University of British Columbia.
+Error: ===============================================================================
+Error: 
+Building octave, (1278, 958)
+Building octave, (639, 479)
+Building octave, (319, 239)
+Building octave, (159, 119)
+Building octave, (79, 59)
+  FindPeaks: scale 0.50, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 0 has 1544 raw peaks
+  filtered: 874 remaining from 1544, thats % 56.61
+generating keypoints from peaks
+  FindPeaks: scale 1.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 1 has 434 raw peaks
+  filtered: 226 remaining from 434, thats % 52.07
+generating keypoints from peaks
+  FindPeaks: scale 2.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 2 has 139 raw peaks
+  filtered: 78 remaining from 139, thats % 56.12
+generating keypoints from peaks
+  FindPeaks: scale 4.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 3 has 42 raw peaks
+  filtered: 27 remaining from 42, thats % 64.29
+generating keypoints from peaks
+  FindPeaks: scale 8.00, testing 3 levels
+peak-search at level 1
+peak-search at level 2
+peak-search at level 3
+Octave 4 has 14 raw peaks
+  filtered: 12 remaining from 14, thats % 85.71
+generating keypoints from peaks
+
+14 passed, 0 failed, 0 skipped, took 153.32 seconds (NUnit 2.5.5).

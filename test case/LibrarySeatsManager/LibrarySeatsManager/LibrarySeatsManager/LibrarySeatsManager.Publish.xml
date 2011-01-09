@@ -1,0 +1,12 @@
+<publishData>
+  <publishTarget publishUrl="E:\SoftwareEngineering\">
+    <file relUrl="bin/LibrarySeatsManager.dll" publishTime="12/12/2010 17:25:05" />
+    <file relUrl="Login.aspx" publishTime="12/12/2010 17:15:12" />
+    <file relUrl="bin/ICSharpCode.SharpZipLib.dll" publishTime="05/02/2004 13:26:50" />
+    <file relUrl="Register.aspx" publishTime="12/12/2010 17:24:44" />
+    <file relUrl="Web.config" publishTime="12/11/2010 15:50:56" />
+    <file relUrl="bin/LibrarySeatsManager.pdb" publishTime="12/12/2010 17:25:05" />
+    <file relUrl="Authorize.aspx" publishTime="12/12/2010 17:15:08" />
+    <file relUrl="Home.aspx" publishTime="12/12/2010 17:15:10" />
+  </publishTarget>
+</publishData>
